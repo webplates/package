@@ -18,10 +18,6 @@
             "Webplates\\Package\\": "src/"
         }
     },
-    "scripts": {
-        "test": "",
-        "test-ci": ""
-    },
     "extra": {
         "branch-alias": {
             "dev-master": "0.1-dev"

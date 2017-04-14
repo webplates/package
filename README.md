@@ -24,7 +24,7 @@ $ composer require webplates/package
 ## Testing
 
 ``` bash
-$ composer test
+$ make test
 ```
 
 
