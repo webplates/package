@@ -11,7 +11,7 @@ install: ## Install dependencies
 	@composer ${COMPOSER_FLAGS} install
 
 clean: ## Clean the working area
-	rm -rf buld/ vendor/
+	rm -rf build/ vendor/
 
 test: ## Run tests
 	@echo "No tests defined" && exit 1
